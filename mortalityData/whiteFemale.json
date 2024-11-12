@@ -1,0 +1,16 @@
+{
+  "group": "white female",
+  "table": [
+    { "age": 1, "rate": 479.2 },
+    { "age": 4, "rate": 21.8 },
+    { "age": 14, "rate": 10.8 },
+    { "age": 24, "rate": 38.3 },
+    { "age": 34, "rate": 66.7 },
+    { "age": 44, "rate": 133.0 },
+    { "age": 54, "rate": 307.4 },
+    { "age": 64, "rate": 630.9 },
+    { "age": 74, "rate": 1534.3 },
+    { "age": 84, "rate": 4228.4 },
+    { "age": 120, "rate": 13525.7 }
+  ]
+}

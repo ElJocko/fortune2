@@ -1,0 +1,14 @@
+{
+  "persons": [
+    {
+      "initialAge": 60,
+      "mortalityData": "female2017.json"
+    }
+  ],
+  "numberOfTrials" : 100000,
+  "startingBalance": 1500000,
+  "annualWithdrawTargetRate": 0.04,
+  "annualWithdrawFloorRate": 0.04,
+  "rateOfReturn" : { "annualRate": 0.08, "std" : 0.5 },
+  "annualInflation": 0.025
+}

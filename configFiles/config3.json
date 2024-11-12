@@ -1,0 +1,32 @@
+{
+  "persons": [
+    {
+      "initialAge": 64,
+      "mortalityData": "male2017.json",
+      "socialSecurityStartAge": 64,
+      "monthlySocialSecurityPrimaryInsuranceAmount": 2800,
+      "monthlyPreretirementIncome": 0
+    },
+    {
+      "initialAge": 62,
+      "mortalityData": "female2017.json",
+      "socialSecurityStartAge": 67,
+      "monthlySocialSecurityPrimaryInsuranceAmount": 2248,
+      "monthlyPreretirementIncome": 4000
+    }
+  ],
+  "numberOfTrials" : 20000,
+  "startingBalance": 2000000,
+  "annualIncomeTarget": 140000,
+  "annualWithdrawFloor": 140000,
+  "rateOfReturnEquities" : { "annualRate": 0.0996, "monthlyStd" : 0.0426 },
+  "rateOfReturnBonds" : { "annualRate": 0.059, "monthlyStd" : 0.0283 },
+  "annualInflation": 0.03,
+  "cashAllocation": 0.0,
+  "bondAllocation": 0.35,
+  "equityAllocationDelta": 0.0,
+  "baseEquityBondCorrelation": 0.08,
+  "survivorAdjustment": -0.16,
+  "annualSpendingAdjustmentSingle": -0.017,
+  "annualSpendingAdjustmentCouple": -0.024
+}

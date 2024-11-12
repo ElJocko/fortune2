@@ -1,0 +1,11 @@
+{
+  "name": "fortune2",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "lodash":"^4.17.10"
+  }
+}

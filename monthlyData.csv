@@ -1,0 +1,32 @@
+Debugger listening on ws://127.0.0.1:51241/2e9a491b-14cb-4c75-af89-a6657e656e11
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+**Configuration**
+Number of Trials: [33m50000[39m
+Maximum Age: [33m120[39m
+Number of Persons: [33m2[39m
+  Person [33m1[39m
+    Initial Age: [33m61[39m
+  Person [33m2[39m
+    Initial Age: [33m59[39m
+Starting Balance: $1,800,000
+Monthly Withdraw (target): $9,000 (6.00% annually)
+Monthly Withdraw (floor): $6,000
+Annual Inflation: 4.5%
+Cash Reserve: 0%
+
+Reached zero balance in 11.72% of trials
+  Mean number of months until zero balance: 330.80 (27.6 years)
+Reduced withdraw in 40.08% of trials
+  15.16% of the months in those trials
+Mean age at death: 88.71
+Mean age at death (reached zero balance): 93.68
+Mean balance at death (if not zero): $15,377,366
+Median balance at death (if not zero): $6,808,484
+Mean monthly rate of return: 0.009252 (annual rate 11.6857 %)
+Mean trial months: 348.03
+Mean monthly withdraw: $18,429
+Mean monthly withdraw (inflation adjusted): $8,699
+Mean withdraw from cash: $0
+Waiting for the debugger to disconnect...
+^C

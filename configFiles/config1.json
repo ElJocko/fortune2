@@ -1,0 +1,16 @@
+{
+  "persons": [
+    {
+      "initialAge": 65,
+      "group": "white male",
+      "mortalityData": "male2017.json"
+    },
+    {
+      "initialAge": 63,
+      "group": "white female",
+      "mortalityData": "male2017.json"
+    }
+  ],
+  "numberOfTrials" : 10000,
+  "rateOfReturn" : "seven"
+}
